@@ -1,0 +1,6 @@
+
+# Linear Algebra Agent
+
+streamlit
+google-genai
+python-dotenv

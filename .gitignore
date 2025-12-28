@@ -1,0 +1,5 @@
+
+# Environment Files
+linear-algebra-agent/
+.streamlit/secrets.toml
+__pycache__/
