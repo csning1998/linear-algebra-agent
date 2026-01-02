@@ -2,6 +2,8 @@
 
 An LLM-based tutor agent specialized in Friedberg, S. H., Insel, A. J., & Spence, L. E. (2002). Linear algebra (4th ed.). Pearson.
 
+This app is deployed on [Streamlit Cloud](https://friedberg-linear-algebra-agent.streamlit.app/).
+
 This agent is powered by **Google Gemini 2.5 Pro**.
 
 ## Features
